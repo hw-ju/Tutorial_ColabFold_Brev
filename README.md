@@ -56,3 +56,6 @@ Double click the tutorial Jupyter Notebook `AF2_mmseqs2_Brev` in the left panel 
 <img src="images_brev/click_notebook.png" alt="Alt text" width="500"> <br>
 - You're ready to run the tutorial Jupyter Notebook. <br>
 <img src="images_brev/ready.png" alt="Alt text" width="500">
+
+### Delete Intance 
+After you're done with your instance, make sure you go back to the Instance Console and click the 'Delete' button. Otherwise, you'll keep burning your credits.

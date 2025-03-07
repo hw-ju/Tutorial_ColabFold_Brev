@@ -61,9 +61,9 @@ Create an account on Brev if you haven't already. You can do this by clicking th
 - Click on the "Open Notebook" button when it starts flashing. <br>
 <img src="images_brev/open_notebook.png" alt="Alt text" width="500">
 
-- You should now be directed to a Jupyter Lab that appears in your web browser. If it doesn’t load, try refreshing the page.<br>
+- You should now be directed to a Jupyter Lab that appears in your web browser. If it doesn’t load, try refreshing the page. <br>
 Close up the benign error if it pops up. <br>
-<img src="images/path_not_found.png" alt="Alt text" width="300"> <br>
+<img src="images_brev/path_not_found.png" alt="Alt text" width="300"> <br>
 Double click the tutorial Jupyter Notebook `AF2_mmseqs2_Brev` in the left panel to open it up. <br>
 <img src="images_brev/click_notebook.png" alt="Alt text" width="500"> <br>
 

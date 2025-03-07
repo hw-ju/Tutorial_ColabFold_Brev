@@ -21,11 +21,11 @@ Create an account on Brev if you haven't already. You can do this by clicking th
 <img src="images_brev/tab_launchable.png" alt="Alt text" width="500">
 
 - Click "Create Launchables". <br>
-<img src="images_brev/create_launchable.png" alt="Alt text" width="500"> <br>
+<img src="images_brev/create_launchable.png" alt="Alt text" width="500">
 
 - Here, you can choose from a variety of GPU types for compute configurations. <br>
-    Below, I have listed the two compute configurations I tested.<br>
-    1. Click "compute" -> "T4" -> "16GiB GPU Memory | 1 GPU • 15GiB RAM • 4 CPUs | GCP • $0.68/hr".<br>
+    Below, I have listed the two compute configurations I tested. <br>
+    1. Click "compute" -> "T4" -> "16GiB GPU Memory | 1 GPU • 15GiB RAM • 4 CPUs | GCP • $0.68/hr". <br>
     2. Click "compute" -> "A100" -> "40GiB GPU Memory | 1 GPU • 85GiB RAM • 12 CPUs | GCP • $4.86/hr". <br>
     Going forward, I'll use the T4 configuration as an example. <br>
 <img src="images_brev/compute_config_T4.png" alt="Alt text" width="500">

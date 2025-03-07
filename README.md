@@ -2,7 +2,7 @@
 A step-by-step tutorial for deploying the Jupyter Notebook
 [ColabFold v1.5.5: AlphaFold2 using MMseqs2](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) on NVIDIA Brev.
 
-### Adavantages of running on Brev
+### Adavantages of running ColabFold on Brev
 - Brev provides a wide range of GPU types, from older generations like the T4 to advanced ones like the H100. You can find compute configurations that meet your budget and performance goals.
 - High-memory GPUs can predict structures for long sequences.
 - More powerful GPUs give greater acceleration for structure inference and relaxation.

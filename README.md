@@ -10,12 +10,12 @@ A step-by-step tutorial for deploying the Jupyter Notebook
 
 
 ### Creat Brev Account
-Create an account on Brev if you haven't already. You can do this by clicking the “Create an account” button in the top right corner of the [Brev Console](https://console.brev.dev/org/org-2tcmRZuGMBx9Wlh2bxmuIdGb6UN/environments).
+Create an account on Brev if you haven't already. You can do this by clicking the “Create an account” button in the top right corner of the Brev Console [console.brev.dev](https://console.brev.dev/org/org-2tcmRZuGMBx9Wlh2bxmuIdGb6UN/environments).
 
 
 ### Create Launchable & Deploy Instance
 - A "Launchable" is a template of setting up an instance.
-- Open a web browser and go to [Brev Console](https://console.brev.dev/org/org-2tcmRZuGMBx9Wlh2bxmuIdGb6UN/environments).
+- Open a web browser and go to Brev Console [console.brev.dev](https://console.brev.dev/org/org-2tcmRZuGMBx9Wlh2bxmuIdGb6UN/environments).
     - Create an account on Brev if you haven't already. You can do this by clicking the “Create an account” button in the top right corner of the Console.
 - Click "Launchables" tab in the top menu bar. <br>
 <img src="images_brev/tab_launchable.png" alt="Alt text" width="500">
